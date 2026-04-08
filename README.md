@@ -32,7 +32,7 @@ It covers core techniques ranging from numerical fitting and signal processing t
       
       -Perform linear regression using`numpy.polyfit`to automatically calculate Young's Modulus ($E$).
       
-3. XRD Peak Analysis
+02. XRD Peak Analysis
    
   Goal: Automate the detection of peaks in X-ray diffraction patterns and analyze crystalline features.
   
@@ -44,7 +44,7 @@ It covers core techniques ranging from numerical fitting and signal processing t
     
       -Generate plots with automated annotations for peak locations and FWHM horizontal lines.
 
-5. Porosity and Feature Size Analysis
+03. Porosity and Feature Size Analysis
    
   Goal: Digitalize microscopy images using image processing techniques.
   
