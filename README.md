@@ -42,7 +42,7 @@ It covers core techniques ranging from numerical fitting and signal processing t
     
       - Generate plots with automated annotations for peak locations and FWHM horizontal lines.
      
-    ![XRD Peak Detection and FWHM Analysis](images/XRD Peak Detection and FWHM Analysis.png)
+    ![XRD Peak Detection and FWHM Analysis](Materials-Numerical-Methods/XRD Peak Detection and FWHM Analysis.png)
 
     Peak 1: Position = 38.47°, FWHM = 1.0054°
     
@@ -61,7 +61,7 @@ It covers core techniques ranging from numerical fitting and signal processing t
       
       - Implement edge detection logic using pixel shifting to highlight feature contours.
 
-   ![Porosity and feature size analysis](images/Porosity and feature size analysis.png)  
+   ![Porosity and feature size analysis](Materials-Numerical-Methods/Porosity and feature size analysis.png)  
 
   Analysis Report:
    
