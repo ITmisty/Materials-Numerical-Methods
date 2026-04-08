@@ -67,7 +67,7 @@ It covers core techniques ranging from numerical fitting and signal processing t
 
 
 <p align="center">
-  <img src="Porosity%20and%20featur%20size%20analysis.png" width="80%">
+  <img src="Porosity%20and%20feature%20size%20analysis.png" width="80%">
   <br>
   <b>Analysis Report:</b><br>
   Total Area: 10000 pixels<br>
