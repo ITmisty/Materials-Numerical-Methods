@@ -52,7 +52,7 @@ It covers core techniques ranging from numerical fitting and signal processing t
 </p>
 
 
-4. Porosity and Feature Size Analysis
+03. Porosity and Feature Size Analysis
    
     Goal: Digitalize microscopy images using image processing techniques.
     
