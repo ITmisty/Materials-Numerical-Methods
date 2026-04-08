@@ -43,12 +43,13 @@ It covers core techniques ranging from numerical fitting and signal processing t
       - Generate plots with automated annotations for peak locations and FWHM horizontal lines.
         
      
-    ![XRD Peak Detection and FWHM Analysis](XRD%20Peak%20Detection%20and%20FWHM%20Analysis.png)
-
-         **Analysis Report:**
-        
-         Peak 1: Position = 38.47°, FWHM = 1.0054°
-         Peak 2: Position = 44.71°, FWHM = 1.4598°
+<p align="center">
+  <img src="XRD%20Peak%20Detection%20and%20FWHM%20Analysis.png" width="80%">
+  <br>
+  <b>Analysis Report:</b><br>
+  Peak 1: Position = 38.47°, FWHM = 1.0054°<br>
+  Peak 2: Position = 44.71°, FWHM = 1.4598°
+</p>
 
 
 4. Porosity and Feature Size Analysis
@@ -65,14 +66,14 @@ It covers core techniques ranging from numerical fitting and signal processing t
       - Implement edge detection logic using pixel shifting to highlight feature contours.
 
 
-   ![Porosity and feature size analysis](Porosity%20and%20feature%20size%20analysis.png)  
-
-  
-         **Analysis Report:**
-        
-         Total Area: 10000 pixels
-         Pore Area: 1032 pixels
-         Porosity: 10.32%
+<p align="center">
+  <img src="Porosity%20and%20featur%20size%20analysis.png" width="80%">
+  <br>
+  <b>Analysis Report:</b><br>
+  Total Area: 10000 pixels<br>
+  Pore Area: 1032 pixels<br>
+  Porosity: 10.32%
+</p>
     
       
 
