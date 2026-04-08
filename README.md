@@ -24,35 +24,35 @@ It covers core techniques ranging from numerical fitting and signal processing t
    
     Goal: Calculate material elastic properties from tensile test data.
   
-    -Key Features:
-      -Process raw stress and strain data using Pandas DataFrames.
+    - Key Features:
+      - Process raw stress and strain data using Pandas DataFrames.
     
-      -Filter and isolate the linear-elastic region.
+      - Filter and isolate the linear-elastic region.
       
-      -Perform linear regression using`numpy.polyfit`to automatically calculate Young's Modulus ($E$).
+      - Perform linear regression using`numpy.polyfit`to automatically calculate Young's Modulus ($E$).
       
 02. XRD Peak Analysis
    
     Goal: Automate the detection of peaks in X-ray diffraction patterns and analyze crystalline features.
   
-    -Key Features:
-      -Identify peak positions and intensities using`scipy.signal`.
+    - Key Features:
+      - Identify peak positions and intensities using`scipy.signal`.
     
-      -Calculate the Full Width at Half Maximum (FWHM), essential for grain size analysis.
+      - Calculate the Full Width at Half Maximum (FWHM), essential for grain size analysis.
     
-      -Generate plots with automated annotations for peak locations and FWHM horizontal lines.
+      - Generate plots with automated annotations for peak locations and FWHM horizontal lines.
 
 03. Porosity and Feature Size Analysis
    
     Goal: Digitalize microscopy images using image processing techniques.
     
-    -Key Features:
-      -Convert image data into NumPy matrices.
+    - Key Features:
+      - Convert image data into NumPy matrices.
       
-      -Apply binarization (thresholding) to distinguish between the material matrix and pores.
+      - Apply binarization (thresholding) to distinguish between the material matrix and pores.
       
-      -Calculate the Porosity Percentage (%) automatically.
+      - Calculate the Porosity Percentage (%) automatically.
       
-      -Implement edge detection logic using pixel shifting to highlight feature contours.
+      - Implement edge detection logic using pixel shifting to highlight feature contours.
 
     
