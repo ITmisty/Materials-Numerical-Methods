@@ -1,11 +1,14 @@
 Using Python for numerical methods in materials science.
 
 ★Project Overview
+
 This repository contains three fundamental practice projects using Python for materials science applications. 
 It covers core techniques ranging from numerical fitting and signal processing to image digitalization.
 
 ★Development Environment
+
 - Programming Language: Python 3.14
+  
 - Core Libraries:
   - `numpy`: Numerical computing and matrix manipulation.
     
@@ -16,6 +19,7 @@ It covers core techniques ranging from numerical fitting and signal processing t
   - `scipy`: Scientific computing and signal processing (primarily for peak detection).
 
 ★Project Descriptions
+
 01. Stress-Strain Data Analysis
   Goal: Calculate material elastic properties from tensile test data.
     -Key Features:
