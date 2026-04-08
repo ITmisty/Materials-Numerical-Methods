@@ -41,6 +41,12 @@ It covers core techniques ranging from numerical fitting and signal processing t
       - Calculate the Full Width at Half Maximum (FWHM), essential for grain size analysis.
     
       - Generate plots with automated annotations for peak locations and FWHM horizontal lines.
+     
+    ![XRD Peak Detection and FWHM Analysis](XRD Peak Detection and FWHM Analysis.png)
+
+    Peak 1: Position = 38.47°, FWHM = 1.0054°
+    
+    Peak 2: Position = 44.71°, FWHM = 1.4598°
 
 03. Porosity and Feature Size Analysis
    
@@ -54,5 +60,17 @@ It covers core techniques ranging from numerical fitting and signal processing t
       - Calculate the Porosity Percentage (%) automatically.
       
       - Implement edge detection logic using pixel shifting to highlight feature contours.
+
+   ![Porosity and feature size analysis](Porosity and feature size analysis.png)  
+
+  Analysis Report:
+   
+  Total Area: 10000 pixels
+  
+  Pore Area: 1032 pixels
+  
+  Porosity: 10.32%
+    
+      
 
     
